@@ -104,4 +104,4 @@ Ultimate ASI Loader by ThirteenAG: required, not included.
 
 ---
 
-More Enshrouded mods by MicDrop7: [Enshrouded-Game-Mods](https://github.com/MicDrop7/Enshrouded-Game-Mods).
+More Enshrouded mods by MicDrop7: [Smart Workshop](https://github.com/MicDrop7/Enshrouded-Smart-Workshop) · [Quick Stack Area](https://github.com/MicDrop7/Enshrouded-Quick-Stack-Area) · [Free Skill Unlocks](https://github.com/MicDrop7/Enshrouded-Free-Skill-Unlocks).
